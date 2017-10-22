@@ -1,0 +1,1 @@
+sunum hakıkında bilgilendirme
