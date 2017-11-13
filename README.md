@@ -38,7 +38,4 @@ sunum hakıkında bilgilendirme
 - [Kaynak 6](http://git.gelistiriciyiz.biz/)
 - [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
 - [Kaynak 8](https://medium.com/@noteCe)
-- [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
-- [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
-- [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
 
