@@ -1,5 +1,6 @@
 git hakkında yararlı bilgiler
 
+<<<<<<< HEAD
 #### **Kurulum **
 [Mac OS](https://git-scm.com/download/mac)
 [Windows](https://git-scm.com/download/win)
@@ -73,6 +74,8 @@ git hakkında yararlı bilgiler
 
 
 
+=======
+>>>>>>> b8596c00b687609a6f7eee3ae500d8eec28ca577
 ## **Kaynaklar**:
 ### **Başlangıç**
 - [Başlangıç 1](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)
@@ -111,6 +114,9 @@ git hakkında yararlı bilgiler
 - [Kaynak 6](http://git.gelistiriciyiz.biz/)
 - [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
 - [Kaynak 8](https://medium.com/@noteCe)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> b8596c00b687609a6f7eee3ae500d8eec28ca577
 
