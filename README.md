@@ -1,21 +1,20 @@
 git hakkında yararlı bilgiler
 
-<<<<<<< HEAD
-#### **Kurulum **
+## **Kurulum **
 [Mac OS](https://git-scm.com/download/mac)
 [Windows](https://git-scm.com/download/win)
 [Linux](https://git-scm.com/download/linux)
 
 
 
-#### **Git Cheat Sheet**
+## **Git Cheat Sheet**
 
-##### **Oluşturma**
+## **Oluşturma**
 
 **git clone clonlanacak_url** : Clonlamak için 
 **git init**: yeni local repo oluşturma 
 
-##### **Yerel repoda değişikler**
+## **Yerel repoda değişikler**
 
 **git status** : çalıştığımız repoda bir değişiklik varsa değişikliği gösterir
 **git diff <kaynak_dal><hedef_dal>**: değişikleri birleştimeden önce önizleme yapmak
@@ -25,7 +24,7 @@ git hakkında yararlı bilgiler
 **git commit -a** :
 **git commit --amend**:
 
-##### **yapılan commitleri Listeleme**
+## **yapılan commitleri Listeleme**
 
 **git log**: bütün commitleri listelemek için
 **git log -p <dosya_adi>** : seçili dosyaya ait commitleri listelemek için
@@ -73,9 +72,6 @@ git hakkında yararlı bilgiler
 **git reset --keep <yorum>** : 
 
 
-
-=======
->>>>>>> b8596c00b687609a6f7eee3ae500d8eec28ca577
 ## **Kaynaklar**:
 ### **Başlangıç**
 - [Başlangıç 1](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)
@@ -114,9 +110,5 @@ git hakkında yararlı bilgiler
 - [Kaynak 6](http://git.gelistiriciyiz.biz/)
 - [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
 - [Kaynak 8](https://medium.com/@noteCe)
-<<<<<<< HEAD
 
-
-=======
->>>>>>> b8596c00b687609a6f7eee3ae500d8eec28ca577
 
