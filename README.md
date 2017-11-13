@@ -1,11 +1,11 @@
 sunum hakıkında bilgilendirme 
 
-##Kaynaklar:
-###Başlangıç
+## **Kaynaklar**:
+### **Başlangıç**
 - [Başlangıç 1](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)
 - [Başlangıç 2](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
 
-###Git tutorial 
+### **Git tutorial** 
 - [Git Basics 1](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository)
 - [Viewing The Commit History](http://git-scm.com/book/en/Git-Basics-Viewing-the-Commit-History)
 - [Undoing Things](http://git-scm.com/book/en/Git-Basics-Undoing-Things)
@@ -16,7 +16,7 @@ sunum hakıkında bilgilendirme
 - [Workflows](http://git-scm.com/book/en/Git-Branching-Branching-Workflows)
 - [Rebasing](http://git-scm.com/book/en/Git-Branching-Rebasing)
 
-###Ek kaynakalar
+### **Ek kaynakalar**
 - [Git Guide](http://rogerdudler.github.io/git-guide/)
 - [Think like a git](http://think-like-a-git.net/)
 - [Git Branching](http://pcottle.github.io/learnGitBranching/)
@@ -24,11 +24,11 @@ sunum hakıkında bilgilendirme
 - [Git ready](http://gitready.com/)
 - [Git Immersion](http://gitimmersion/)
 
-###Udemy kaynakları
+### **Udemy kaynakları**
 - [Türkçe kaynak](https://www.udemy.com/git-ve-github-kullanmayi-ogrenin/learn/v4)
 - [İngilizce kaynak](https://www.udemy.com/git-started-with-github/)
 
-###Karışık türkçe kaynaklar
+### **Karışık türkçe kaynaklar**
 - [Kaynak 1](http://selahattinunlu.com/git-ogrenmek-icin-kaynaklar)
 - [Kaynak 2](https://forumlogs.com/t/git-ogrenmek-icin-kaynaklar-listesi/1043)
 - [Kaynak 3](http://rogerdudler.github.io/git-guide/index.tr.html)
@@ -41,5 +41,4 @@ sunum hakıkında bilgilendirme
 - [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
 - [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
 - [Kaynak 7](https://medium.com/@mustafazahidefe/git-notlar%C4%B1-2-git-i%CC%87nit-f54292fbf631)
-
 
