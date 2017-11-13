@@ -11,8 +11,8 @@ git hakkında yararlı bilgiler
 
 ##### **Oluşturma**
 
-**git clone clonlanacak_url** : Clonlamak için 
-**git init**: yeni local repo oluşturma 
+- **git clone clonlanacak_url** : Clonlamak için 
+- **git init**: yeni local repo oluşturma 
 
 ##### **Yerel repoda değişikler**
 
