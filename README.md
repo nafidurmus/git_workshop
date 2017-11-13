@@ -1,6 +1,6 @@
 git hakkında yararlı bilgiler
 
-##**Kurulum **
+## **Kurulum**
 [Mac OS](https://git-scm.com/download/mac) |
 [Windows](https://git-scm.com/download/win) |
 [Linux](https://git-scm.com/download/linux) |
